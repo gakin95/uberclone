@@ -8,7 +8,7 @@ import cars from '../../assets/data/cars';
 const RouteMap = () => {
   const origin = {latitude: 37.3318456, longitude: -122.0296002};
 const destination = {latitude: 37.771707, longitude: -122.4053769};
-  const GOOGLE_MAPS_APIKEY = 'AIzaSyAcxtb7nAs568Mfk3lBqE8_3FuvGzAf3MY';
+  const GOOGLE_MAPS_APIKEY = 'API_KEY';
 
   return (
     <MapView

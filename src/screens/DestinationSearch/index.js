@@ -26,7 +26,7 @@ const DestinationSearch = () => {
           }}
           fetchDetails
           query={{
-            key: 'AIzaSyAcxtb7nAs568Mfk3lBqE8_3FuvGzAf3MY',
+            key: 'API_KEY',
             language: 'en',
           }}
           styles={{
@@ -42,7 +42,7 @@ const DestinationSearch = () => {
           }}
           fetchDetails
           query={{
-            key: 'AIzaSyAcxtb7nAs568Mfk3lBqE8_3FuvGzAf3MY',
+            key: 'KEY_KEY',
             language: 'en',
           }}
           styles={{
